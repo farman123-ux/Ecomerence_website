@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 1px solid rgb(215, 27, 27);
+    background-color: rgb(63, 56, 56);
+    
+}
+.far1{
+    border: 1px solid rgb(85, 21, 36);
+    padding: 14px;
+    margin: 10px auto;
+    width: 500px;
+    height: 650px;
+    font-weight: 700;
+    font-size: 16.5px;
+    color: rgb(57, 57, 72);
+    border-radius: 13%;
+    justify-items: center;
+    background-color: lightpink;
+    box-shadow: 10px 10px 20px blanchedalmond;
+}
+h1{
+    color: lightcoral;
+}
+span{
+    padding-left: 100px;
+}
+.far1 label{
+    padding-left: 3px;
+    font-size: 17px;
+}
+input{
+    
+    padding: 7px 0px 7px 5px;
+    color:red;
+    border-radius: 25px;
+    background-color: lightcoral;
+   
+    
+
+}
+#he{
+    width: 100%;
+   border: 1px solid lightcyan;
+    padding: 7px 0px 7px 5px;
+    border-radius: 25px;
+    background-color: lightcoral;
+    color: rgb(210, 210, 203);
+    
+}
+select{
+    color: lightpink;
+}
+input:hover{
+    
+    border: none    ;
+}
+#he:hover{
+background-color: rgb(37, 78, 76);}
+
+    
+input:focus{
+    
+    outline: none;
+}
+    
+textarea{
+    color: rgb(163, 57, 57);
+    
+}
+.far1:hover{
+    box-shadow: -10px 10px 13px lightskyblue;
+    background-color: rgb(61, 100, 61);
+    transition: 1s;
+    color: rgb(178, 177, 170);
+   
+}
+.da{
+    cursor: pointer;
+}
